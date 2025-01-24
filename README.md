@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 I'm a self-taught developer for all stacks who:
 - has been programming for most of my life
