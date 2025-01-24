@@ -6,3 +6,6 @@ I'm a self-taught developer for all stacks who:
 - likes to work on metaprogramming and language design
 - enjoys any kind of math
 - likes to implement interesting algorithms
+- generally tries to test the limits of what's possible with these silly machines
+
+> Psst: If you like ~~torturing yourself~~ trying exotic programming languages, try [stpd-lang](https://github.com/dinguskhan0/stpd-lang)
