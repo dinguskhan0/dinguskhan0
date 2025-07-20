@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm a self-taught developer for all stacks who:
+I'm a self-taught developer who:
 - has been programming for most of my life
 - can write in ~6 languages fluently (i.e. without consulting documentation for everything)
 - likes to work on metaprogramming and language design
